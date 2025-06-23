@@ -8,7 +8,6 @@
     "scheme": "myapp",
     "userInterfaceStyle": "automatic",
     "newArchEnabled": true,
-    "initialRouteName": "splash",
     "ios": {
       "supportsTablet": true
     },
@@ -31,6 +30,9 @@
         "projectId": "76536fa8-ee8a-408c-a208-0c81a97bdba8"
       }
     },
-    "owner": "tnk4202"
+    "owner": "tnk4202",
+    "android": {
+      "package": "com.tnk4202.bustransport"
+    }
   }
 }
